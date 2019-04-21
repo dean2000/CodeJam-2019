@@ -6,4 +6,4 @@ Yellow path: given path
 
 Blue path: new path
 
-![alt text](https://user-images.githubusercontent.com/34401253/56473298-d8a0a700-6471-11e9-8a50-6b7ee6850917.png)
+[](https://user-images.githubusercontent.com/34401253/56473927-e60e5f00-647a-11e9-92a3-eb1617f73c4a.gif)
